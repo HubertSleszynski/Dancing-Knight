@@ -170,9 +170,9 @@ const DancingKnight = () => {
       </div>
       {helpClicked ? (
         <div className="help">
-          <h2>What is a knight's tour?</h2>
+          <h2>What is this game about?</h2>
           <p>
-            A Knight's Tour is a type of mathematical puzzle involving moving a
+            Dancing knight is a type of mathematical puzzle involving moving a
             knight around a chessboard in such a way that it visits every square
             exactly once. The knight's movement is restricted - it moves two
             squares in one direction and one square in another direction,
