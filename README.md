@@ -1,8 +1,25 @@
-# React + Vite
+# Dancing Knight
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dancing knight is a type of mathematical puzzle involving moving a knight around a chessboard in such a way that it visits every square exactly once. The knight's movement is restricted - it moves two squares in one direction and one square in another direction, forming an 'L' shape.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+LIVE: [Dancing Knight](https://hrs-dancing-knight.netlify.app/)
+
+## Screenshot
+
+<img src="src/assets/hrs-dancing-knight.netlify.app_.png" width="600">
+
+## Tech Stack
+
+Yarn Vite React CSS
+
+## Author
+
+### Hubert Śleszyński
+
+Portfolio: https://hrs-dev.netlify.app/
+
+Linkedin: https://www.linkedin.com/in/hubertsleszynski/
+
+Github: https://github.com/HubertSleszynski
