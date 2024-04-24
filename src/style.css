@@ -8,7 +8,7 @@ body {
 
 .container {
   margin-inline: auto;
-  width: 500px;
+  width: 850px;
   min-height: 90vh;
   display: flex;
   flex-direction: column;
@@ -72,8 +72,26 @@ body {
   background-color: rgb(156, 48, 48);
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 1440px) {
+  .container {
+    width: 700px;
+  }
+}
+
+@media only screen and (max-width: 425px) {
+  .container {
+    width: 400px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
   .container {
     width: 350px;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .container {
+    width: 300px;
   }
 }
