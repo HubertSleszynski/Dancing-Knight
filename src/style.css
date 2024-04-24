@@ -72,6 +72,12 @@ body {
   background-color: rgb(156, 48, 48);
 }
 
+@media only screen and (max-width: 1900px) {
+  .container {
+    width: 725px;
+  }
+}
+
 @media only screen and (max-width: 1440px) {
   .container {
     width: 650px;
